@@ -72,7 +72,7 @@ class Page extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            const SizedBox(height: 15),
+            const SizedBox(height: 80),
             ElevatedButton(
               style: ElevatedButton.styleFrom(
               backgroundColor: Colors.blueAccent,
